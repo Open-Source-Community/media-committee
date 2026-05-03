@@ -1,2 +1,30 @@
-# media-committee
-Repository for managing media content, campaigns, and publishing workflow.
+# Media Committee Hub
+
+---
+
+## Timeline & Activities
+
+| Week | Activity | Content Type | Platform | Status |
+| ---- | -------- | ------------ | -------- | ------ |
+|      |          |              |          |        |
+|      |          |              |          |        |
+|      |          |              |          |        |
+
+---
+
+
+## Content Template
+
+### Ideas
+
+### Captions
+
+### Schedule
+
+---
+
+## Status
+
+* ⏳
+* 🔄
+* ✅
